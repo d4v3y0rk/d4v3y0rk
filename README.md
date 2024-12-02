@@ -2,7 +2,12 @@
 **These stats do not include contributions to private repositories**
 
 
-[![d4v3y0rk GitHub stats](https://stats.zt.d4v3y0rk.com/?username=d4v3y0rk&show_icons=true&theme=tokyonight&include_all_commits=true&show=reviews,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
+[![d4v3y0rk GitHub stats](https://stats.zt.d4v3y0rk.com/?username=d4v3y0rk&show_icons=true&theme=transparent&include_all_commits=true&show=reviews,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Languages](https://stats.zt.d4v3y0rk.com/top-langs/?username=d4v3y0rk&theme=transparent)
+
+Despite this graph I mostly write in python now. 
+
 <!--
 **d4v3y0rk/d4v3y0rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
