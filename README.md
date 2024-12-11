@@ -3,8 +3,7 @@
 
 
 [![d4v3y0rk GitHub stats](https://stats.zt.d4v3y0rk.com/?username=d4v3y0rk&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Languages](https://stats.zt.d4v3y0rk.com/top-langs/?username=d4v3y0rk&theme=transparent&hide_progress=true)
+![Top Languages](https://stats.zt.d4v3y0rk.com/top-langs/?username=d4v3y0rk&theme=transparent&layout=donut)
 
 I mostly write in python right now. (Almost all of my work is in private repos.)
 
